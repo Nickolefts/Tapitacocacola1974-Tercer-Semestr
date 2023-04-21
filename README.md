@@ -14,9 +14,9 @@
 
 -:computer: Perez Jose Roberto Emanuel
 
--:computer: 
+-:computer: cristian orozco
 
--:colguiomputer: olguin uriel
+-:computer: olguin uriel
 
 -:computer: 
 
