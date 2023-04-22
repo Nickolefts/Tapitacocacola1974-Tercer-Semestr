@@ -8,9 +8,9 @@
 
 ### `INTEGRANTES:`
 
--:computer: Avaro Joaquin.
+-:computer: Avaro Joaquin
 
--:computer: Ruiz Juan Ignacio.
+-:computer: Ruiz Juan Ignacio
 
 -:computer: Perez Jose Roberto Emanuel
 
@@ -18,11 +18,13 @@
 
 -:computer: olguin uriel
 
--:computer: 
+-:computer: Grande Victoria Josefina
 
--:computer: 
+-:computer: Lopez Maximiliano Exequiel
 
--:computer: 
+-:computer: Yanten Alexis
+
+-:computer: Yebrin Pablo
 
 
 
