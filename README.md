@@ -15,7 +15,8 @@
 -:computer:Ruiz Juan Ignacio"
 -:computer:Yanten Alexis"
 -:computer:Yebrin Pablo"
- -:computer:Uriel Olguin"
+-:computer:Uriel Olguin"
+-:computer:Perez Jose Roberto Emmanuel
 
 
 
