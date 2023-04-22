@@ -7,24 +7,15 @@
 
 
 ### `INTEGRANTES:`
-
--:computer: Avaro Joaquin
-
--:computer: Ruiz Juan Ignacio
-
--:computer: Perez Jose Roberto Emanuel
-
--:computer: cristian orozco
-
--:computer: olguin uriel
-
--:computer: Grande Victoria Josefina
-
--:computer: Lopez Maximiliano Exequiel
-
--:computer: Yanten Alexis
-
--:computer: Yebrin Pablo
+-:computer:Acosta Joaquin Avaro"
+-:computer:Beluardi Emanuel"
+-:computer:Grande Victoria Josefina"
+-:computer:Lopez Maximiliano Exequiel"
+-:computer:Orozco Cristian Emanuel"
+-:computer:Ruiz Juan Ignacio"
+-:computer:Yanten Alexis"
+-:computer:Yebrin Pablo"
+ -:computer:Uriel Olguin"
 
 
 
